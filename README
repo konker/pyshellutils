@@ -1,0 +1,7 @@
+pyshellutils
+==============================================================================
+
+Wrapper for calling command line programs from Python.
+
+author: Konrad Markus <konker@gmail.com>
+
